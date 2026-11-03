@@ -81,7 +81,7 @@ export default function Home() {
 
   useEffect(() => {
   const anbe = new Audio("/anbe-en-anbe.mp3");
-  const mobila = new Audio("/mobila%20mobila.mp3");
+  const mobila = new Audio("/Mobila%20Mobila.mp3");
 
   anbe.loop = true;
   anbe.volume = 0.55;
